@@ -4,8 +4,9 @@
 In the project directory, you can run:
 
 ### `npm install`
-### `npm start`
 ### `npm install react-router-dom@6`
+### `npm start`
+
 
 
 Runs the app in the development mode.\
