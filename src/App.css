@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color:#000000;
+  background-image:linear-gradient(147deg, #181b22 0%, #04619f 74%);
+height:100%;
+}
+.card img{
+  height:250px;
+}
+.card{
+  margin-bottom:30px;
+}
+.main-container{
+  width:90%;
+  margin:auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 5%;
+  padding: 10px;
+}
